@@ -5,6 +5,8 @@
 This plugin adds parent task to the list of allowable filters for an 
 issue query.
 
+It is tested on 2.4.x-2.6.x.  Other versions may or may not work.
+
 ## Installation
 
 1.  Clone to plugins/redmine_filter_issues_by_parent_task
