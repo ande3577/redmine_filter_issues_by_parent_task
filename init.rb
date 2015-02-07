@@ -1,3 +1,5 @@
+require 'redmine_filter_issues_by_parent_task/patches/issue_query_patch'
+
 Redmine::Plugin.register :redmine_filter_issues_by_parent_task do
   name 'Redmine Filter Issues By Parent Task plugin'
   author 'David S Anderson'
